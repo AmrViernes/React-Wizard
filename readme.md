@@ -1,8 +1,10 @@
 # 🧙‍♂️ React Wizard Component
 
-A powerful, flexible, dependency free, tiny and type-safe wizard (multi-step form) component for React applications. Built with TypeScript and Context API, compatible with React 16.8+ through React 19.
+A powerful, flexible, and dependency-free wizard (multi-step form) component for React —
+tiny at just 📦 0.84 kB gzip, fully 🔒 type-safe, and built with 🟦 TypeScript + ⚛️ React Context API.
+Compatible with React 16.8+ → React 19.
 
-[![npm version](https://badge.fury.io/js/%40yourscope%2Freact-wizard.svg)](https://www.npmjs.com/package/@yourscope/react-wizard)
+[![npm version](https://badge.fury.io/js/%40yourscope%2Freact-wizard.svg)](https://www.npmjs.com/package/@amrviernes/react-wizard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -744,7 +746,7 @@ If you find this package helpful, please:
 
 ## 📞 Get in Touch
 
-- GitHub: [@amrviernes](https://github.com/amrviernes)
+- GitHub: [@AmrViernes](https://github.com/AmrViernes)
 - Email: amraromoro@hotmail.com
 
 ---
