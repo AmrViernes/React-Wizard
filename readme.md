@@ -746,6 +746,7 @@ If you find this package helpful, please:
 
 ## 📞 Get in Touch
 
+- LinkedIn: [Amr El-Desoky](https://www.linkedin.com/in/amr-el-desoky/)
 - GitHub: [@AmrViernes](https://github.com/AmrViernes)
 - Email: amraromoro@hotmail.com
 
